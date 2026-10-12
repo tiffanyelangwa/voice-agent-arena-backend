@@ -1,5 +1,9 @@
 # Voice Agent Arena
 
+## Project Scope
+
+This repository contains an early prototype of the Voice Agent Arena backend, developed before the work moved into company-managed development at Coval. It demonstrates the initial text-to-speech integrations and randomized A/B comparison setup. Later model integrations, evaluation infrastructure, and ranking functionality are not included in this public repository.
+
 A Python-based benchmarking and evaluation system for AI text-to-speech (TTS) models. Creates a controlled A/B testing environment where different voice agents compete across predefined business scenarios to assess performance, clarity, and suitability.
 
 ## What It Does
